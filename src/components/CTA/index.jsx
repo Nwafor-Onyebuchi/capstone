@@ -10,7 +10,7 @@ const CTA = () => {
     <Container>
       <Content>
         <h1>Little Lemon</h1>
-        <h2>Chicago</h2>
+        <h2>Boston</h2>
         <p className="lead-txt">
           We are family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.
         </p>

@@ -2,7 +2,7 @@ import { Container, Content, Image } from "./styles";
 import Mario_and_Adrian_A from "../../assets/Mario_and_Adrian_A.jpg";
 import Mario_and_Adrian_B from "../../assets/Mario_and_Adrian_B.jpg";
 
-const Chicago = () => {
+const Boston = () => {
   return (
     <Container id="about">
       <Content>
@@ -23,4 +23,4 @@ const Chicago = () => {
   );
 };
 
-export default Chicago;
+export default Boston;
